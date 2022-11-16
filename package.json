@@ -1,0 +1,28 @@
+{
+  "name": "material-bug",
+  "version": "0.1.0",
+  "description": "",
+  "scripts": {
+    "start": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "typecheck": "tsc --noEmit",
+    "typewatch": "tsc --noEmit --watch"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "@emotion/react": "^11.10.5",
+    "@emotion/styled": "^11.10.5",
+    "@grammarly/editor-sdk-react": "^2.2.0",
+    "@mui/material": "^5.10.14",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.24",
+    "@types/react-dom": "^18.0.8",
+    "babel-preset-nano-react-app": "^0.1.0",
+    "typescript": "^4.8.4",
+    "vite": "^3.2.1"
+  }
+}
